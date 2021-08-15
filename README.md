@@ -1,4 +1,4 @@
-# py2exe
+# [py2exe](https://imvickykumar999.github.io/py2exe/)
 
 ## pyinstaller runs on either windows, mac or linux.
 ## ...but, py2exe runs only on windows
